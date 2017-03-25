@@ -1,6 +1,6 @@
 {
   "name": "hourglass/forum",
-  "type": "hourglass-addon",
+  "type": "hourglass-plugin",
   "description": "Hourglass Forum plugin",
   "license": "MIT",
   "authors": [
