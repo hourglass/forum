@@ -3,6 +3,11 @@
   "type": "hourglass-plugin",
   "description": "Hourglass Forum plugin",
   "license": "MIT",
+  "version": "0.0.1",
+  "extra": {
+    "entry": "Hourglass\\Forum\\ForumPlugin",
+    "priority": "1000"
+  },
   "authors": [
     {
       "name": "Christopher Mühl",
