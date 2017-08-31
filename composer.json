@@ -2,7 +2,7 @@
   "name": "hourglass/forum",
   "type": "hourglass-plugin",
   "description": "Hourglass Forum plugin",
-  "license": "MIT",
+  "license": "CC-BY-4.0",
   "version": "0.0.1",
   "extra": {
     "entry": "Hourglass\\Forum\\ForumPlugin",
